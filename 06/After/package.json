@@ -1,0 +1,24 @@
+{
+  "name": "debugging-sites-using-chrome-devtools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.20.1",
+    "core-js": "3.28.0",
+    "debug": "4.3.4",
+    "express": "4.18.2",
+    "serve-favicon": "2.5.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.21.0",
+    "@babel/core": "^7.21.3"
+  }
+}
